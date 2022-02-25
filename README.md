@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @onurdogustemel
 - 👀 I’m interested in programming, cybersecurity and network.
-- 🌱 I’m currently learning C++, cybersecurity, switching, routing and backend development.
+- 🌱 I’m currently learning javascript, go, cybersecurity, switching, routing and backend development.
 - 💞️ I’m looking to collaborate on programming, cybersecurity, network and backend development.
 - 📫 How to reach me onurdogustemel@yahoo.com
 
